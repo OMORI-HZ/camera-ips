@@ -1,0 +1,131 @@
+.....................................................................................................[{(D3V.OMORI)}]...............................................................................................................
+this cameras are public or private if you want the full package DM me ;)
+|
+|
+model:
+
+rtsp://<1234>:554/11
+
+paste this on vlc media player
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+rtsp://82.66.140.207:554/11    | Garden
+rtsp://166.254.162.141:554/11  | Truck
+166.254.162.253		       | Truck  
+92.208.140.206		       | Basement
+212.172.5.181		       | House
+88.86.76.9		       | Office
+194.28.62.141                  | Barbershop
+162.191.172.43                 | Tennis
+87.68.114.56                   | Lake
+176.233.154.98                 | amlaki
+84.220.238.59                  | House
+79.43.48.230                   | House
+151.50.101.161                 | House
+77.56.76.215                   | Pool
+37.0.52.143                    | House
+85.7.86.31                     | Cargo
+188.61.50.37                   | Stairs
+189.142.13.210 +189.142.13.214 | Cityroad
+69.115.224.108                 | Abdularab
+24.212.127.132                 | Market
+24.85.112.136                  | goorgali
+201.218.76.15                  | house
+91.225.6.67                    | market
+159.224.44.250                 | house
+178.151.155.76                 | storage
+194.44.236.238                 | garden
+213.110.116.151                | OFFICE
+80.189.17.132                  | house
+84.66.217.78                   | yard
+92.14.33.21                    | garden
+109.66.87.56                   | street 		|IL
+87.68.114.56                   | ocean			|IL
+85.130.192.99                  | The monastery          |IL
+85.130.192.99                  | garden                 |IL
+68.112.152.80                  | house                  |US
+46.116.249.13                  | street                 |IL
+93.177.141.23                  | house                  |IR
+151.83.45.141                  | battry forooshi        |TR
+78.146.190.203                 | house                  |GB
+82.45.32.245                   | house                  |GB
+165.120.63.7                   | garden                 |GB
+78.40.253.114                  | Structure              |IS
+146.66.191.135                 | shop                   |RU
+188.168.137.81                 | shop                   |RU
+74.57.122.15                   | shop                   |CA
+50.67.102.177                  | bagh                   |CA
+24.78.147.220                  | house                  |CA
+173.177.120.21                 | garden                 |CA
+50.115.187.46                  | house                  |CA
+97.127.21.205                  | spa                    |US
+73.207.23.71                   | dress shop             |US
+73.67.11.228                   | aquarium               |US
+64.226.148.108                 | street                 |US
+73.162.131.161                 | backyard               |US
+73.71.198.126                  | street                 |US
+71.229.27.2                    | house                  |US
+70.58.197.121                  | house                  |US
+75.97.95.189                   | parking                |US
+67.160.249.253                 | parking                |US
+76.29.156.13                   | yard                   |US
+162.213.183.100                | Zaminfootball          |US
+5.232.48.68                    | Parking                |IR
+2.180.194.252                  | Clothstore             |IR
+93.173.101.215                 | Yard                   |IL
+79.179.72.80                   | House                  |IL
+85.130.150.186                 | House                  |IL
+82.69.53.112                   | Morghdari              |UK
+92.30.227.131                  | Babyroom               |UK
+91.125.16.107                  | Street                 |UK
+86.161.98.204                  | Street                 |UK
+86.19.142.5                    | Street                 |UK
+31.53.151.17                   | Street                 |UK
+84.66.217.78                   | Street                 |UK
+86.5.68.48                     | House                  |UK
+167.100.255.42                 | House                  |SA
+5.163.225.41                   | Street                 |SA
+166.254.87.83                  | Car                    |AE
+78.186.159.71                  | Streetcam              |TR (+ rotate+scanner)
+78.186.12.219                  | Hospis                 |TR
+88.229.151.82                  | Garden                 |TR
+86.62.34.45                    | Lake                   |AT
+212.186.81.82                  | CAFE                   |AT
+91.113.11.58                   | AnimalHusbandry        |AT
+165.120.63.7                   | House                  |IR
+165.120.63.7                   | GroceryStore           |IR
+151.243.51.8                   | House                  |IR
+2.180.194.252                  | Clothstore             |IR
+93.125.67.0                    | GRstore                |BY
+128.65.35.107                  | BeautyStore            |BY
+143.0.142.126                  | tailoring              |BR
+177.103.183.112                | Datacenter             |BR
+177.95.67.2                    | Street                 |BR
+187.105.113.247                | House                  |BR
+177.35.171.104                 | Shoestore              |BR
+131.108.203.2                  | ?????                  |BR
+174.116.110.58                 | Garden                 |CA
+66.130.177.99                  | Jungle                 |CA
+208.84.36.248                  | Street&Garden          |CA
+2.180.194.252                  | Door                   |CA
+150.107.218.117                | Store                  |IN
+182.48.201.231                 | Pool                   |IN
+59.98.18.118                   | Programmer indian      |IN
+182.190.118.154                | Yard                   |PK
+189.164.167.222                | Clothstore             |MX
+187.230.20.224                 | Office                 |MX
+111.8.118.152                  | Street                 |CN
+111.22.104.210                 | Street                 |CN
+218.77.122.169                 | Office                 |CN
+222.162.18.253                 | House                  |CN
+197.121.124.1                  | Shop                   |EG
+77.174.187.202                 | Street                 |NL
+84.28.176.124                  | Aquarium               |NL
+71.34.217.150                  | Yard                   |US
+166.254.86.106                 | Truck                  |US
+77.151.252.11                  | Street                 |FR
+37.68.180.13                   | House                  |FR
+103.134.117.18                 | Shop                   |IN
+103.174.35.69                  | Storage                |IN
+103.249.248.181                | House                  |IN
